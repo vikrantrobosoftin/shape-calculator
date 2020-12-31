@@ -1,4 +1,4 @@
-### Shape calculator
+# Shape calculator
 
 This project demonstrates usage of js design pattern while calculating area of different shapes.
 This project is built using minumum configuration of webpack.
